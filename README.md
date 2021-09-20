@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alex
 
 - 🌱 Estudando JavaScript, Python e Django
-- 👀 Tenho interesse em React
+- 👀 Tenho interesse em React e Inteligência Artificial.
 
  <div>
   <a href="https://github.com/Alex-Filipe">
