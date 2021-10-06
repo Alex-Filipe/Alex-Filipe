@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alex
 
-- 🌱 Estudando JavaScript, Python e Django
+- 🌱 Estudando JavaScript, Python, Django e Análise de Dados.
 - 👀 Tenho interesse em React e Inteligência Artificial.
 
  <div>
