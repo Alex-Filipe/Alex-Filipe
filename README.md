@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Alex
 
-- 🌱 Estudando JavaScript, Python, Django e Análise de Dados.
-- 👀 Tenho interesse em React e Inteligência Artificial.
+- Sólido conhecimento em PHP com o framework Laravel.
+- Sólido conhecimento em C# com o framework .Net.
+"Meu interesse se estende desde a arquitetura de sistemas até a interface do usuário, com experiência em desenvolvimento tanto frontend quanto backend. "
+
+- 🌱 Estudando docker.
 
  <div>
   <a href="https://github.com/Alex-Filipe">
