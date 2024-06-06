@@ -2,6 +2,7 @@
 
 - Sólido conhecimento em PHP com o framework Laravel.
 - Sólido conhecimento em C# com o framework .Net.
+- Sólido conhecimento em React.
   
 "Meu interesse se estende desde a arquitetura de sistemas até a interface do usuário, com experiência em desenvolvimento tanto frontend quanto backend. "
 
