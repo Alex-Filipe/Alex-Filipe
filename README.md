@@ -5,14 +5,11 @@
 <h3 align="center">Software Engineer focused on backend, APIs, integrations, and maintainable systems.</h3>
 
 <p align="center">
-  <a href="https://github.com/Alex-Filipe">
-    <img src="https://img.shields.io/badge/GitHub-Alex--Filipe-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
-  </a>
   <a href="https://www.linkedin.com/in/alex-filipe-7b0108160/">
     <img src="https://img.shields.io/badge/LinkedIn-Alex_Filipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
   <a href="mailto:alexfilipe0508@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" style="margin-left: 8px;" />
   </a>
 </p>
 
