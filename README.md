@@ -58,8 +58,11 @@
 ## GitHub activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alex-Filipe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Filipe&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top languages" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Alex-Filipe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Filipe&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top languages" />
 </p>
 
 <div align="center">
