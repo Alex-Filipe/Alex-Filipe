@@ -57,16 +57,10 @@
 
 ## GitHub activity
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Alex-Filipe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Filipe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alex-Filipe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Filipe&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top languages" />
+</p>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=Alex-Filipe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
